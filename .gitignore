@@ -1,0 +1,7 @@
+/target/
+*.bak
+.settings/
+.vscode/
+.classpath
+.project
+.idea/
